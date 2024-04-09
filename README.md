@@ -27,7 +27,7 @@
 #### 4. Desenvolvimento de Propostas de Redesign:
 - Agora vocês devem criar uma proposta de redesign para o aplicativo ou website escolhido.
 - Vocês devem considerar os princípios de UX e UI ao criar suas propostas, garantindo que o design seja centrado no usuário, intuitivo e agradável visualmente.
-- Para isso usem a ferramenta [Figma](figma.com)
+- Para isso usem a ferramenta [Figma](https://www.figma.com/)
   >[Tutorial introdução ao Figma - Básico iniciante](https://www.youtube.com/watch?v=G2iDge0lUB0&ab_channel=ThiagoBulh%C3%B5esDesignTutorial)
 
 #### 5. Apresentação das Propostas:
