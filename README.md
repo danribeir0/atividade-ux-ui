@@ -5,7 +5,7 @@
 - Permitir que os alunos apliquem esses conceitos em um projeto prático.
 - Promover o pensamento crítico sobre a usabilidade e o design de aplicativos ou websites.
 
-### Passos da Atividade: Grupos de 5 pessoas
+### Passos da Atividade: Grupos de 4 pessoas
 
 #### 1. Introdução
 - Façam uma pesquisa e montem um ou dois slides com uma breve explicação do que é UX e UI
